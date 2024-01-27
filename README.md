@@ -1,13 +1,18 @@
 ### Hi there 👋, my name is Rufat
 #### I am Middle Android Developer
-![I am Middle Android Developer](https://bilgi.uz/upload/resize_cache/iblock/3d6/74ramdqli5di4tj1l8cw5lv255gd9tm3/780_470_2/HeroHomepage_2880x1200.max-1300x1300.jpg)
+![I am Middle Android Developer](https://boehrsi.de/img/news/android_studio4.webp)
 
-I have more than 4 years of programming experience. I work as a mobile developer.📱
+I made Rufat from Azerbaijan and I am Middle lvl Android Developer. I really enjoy learning languages like Kotlin, Dart, Python, and etc. I also enjoy create MVP mobile app products.
 
-Skills: Kotlin / Dart / Python / Firebase
+Skills: Kotlin / FireBase / Dart / Python / Figma
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on startups. 
+- 🌱 I’m currently learning Kotlin and Firebase. 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rufat-Shikhiyev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rufat-shikhiyev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rofa_muslum/)  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rufat-Shikhiyev&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Rufat-Shikhiyev)  
 
