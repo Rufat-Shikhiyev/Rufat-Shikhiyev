@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rufat
 #### I am Middle Android Developer
-![I am Middle Android Developer](https://boehrsi.de/img/news/android_studio4.webp)
+![I am Middle Android Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRY2HZ86YRAIhF3mjkNuUpXrLPzhyPrZ6FOw&usqp=CAU)
 
 I made Rufat from Azerbaijan and I am Middle lvl Android Developer. I really enjoy learning languages like Kotlin, Dart, Python, and etc. I also enjoy create MVP mobile app products.
 
